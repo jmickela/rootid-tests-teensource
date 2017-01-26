@@ -46,7 +46,7 @@ Feature: Homepage layout
     And I fill in "zip_code" with "94590"
     And I press "submit"
     And I should see "Did you visit a clinic near you?"
-    
+
 
 #  Scenario Outline:
 #    Then I should see a "<class_name>" element
